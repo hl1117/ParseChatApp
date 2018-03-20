@@ -1,8 +1,8 @@
-# Lab 4 - ParseChatApp
+# Lab 4 - Parse Chat
 
-ParseChatApp is a Chat app using an [open source Parse](http://parseplatform.org/) backend.
+**Name of your app** is a Chat app using an [open source Parse](http://parseplatform.org/) backend.
 
-Time spent: 4 hours spent in total
+Time spent: **X** hours spent in total
 
 ## User Stories
 
@@ -49,7 +49,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2018] [Harika Lingareddy]
+    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
